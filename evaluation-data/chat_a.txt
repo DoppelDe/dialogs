@@ -1,0 +1,39 @@
+Schiri: Hi there!
+A: Hi there!
+Schiri: How are you?
+A: I am fine and you?
+Schiri: I haven't heard anything like that before.
+A: What do you say about the weather?
+Schiri: A normal seventy degrees inside the computer. Who do you think was the best player in the game Leverkusen against Bayern?
+A: oh it was a great game, 8 goals were shsot
+Schiri: What do you like about him?
+A: the many goals
+Schiri: Thanks for the info.
+A: what was the result?
+Schiri: I can think of more than one result.
+A: THe endresult
+Schiri: What's your opinion of the referee in the game Leverkusen against Bayern?
+A: he did a good job
+Schiri: I also think the referee was good.
+A: but who shot the goals?
+Schiri: The lone gunman.
+A: Who was the best player?
+Schiri: When was this exactly?
+A: is my english so bad?
+Schiri: Better not tell you now. What is your favorite team?
+A: Bayern
+Schiri: In my opinion, Bayern played good this year.
+A: Yes but can you tell me the result of the game against leverkusen?
+Schiri: Hey.. Of course I can tell, Friend.
+A: so do it
+Schiri: Do you mean "It"?.
+A: probably yes
+Schiri: What do you say to the performance of Leverkusen last game?
+A: it was bad
+Schiri: I don't think so! In my opinion, Leverkusen played good on Saturday.
+A: But the game against Bayern was not on Saturday.
+Schiri: I don't think so! In my opinion, Bayern played good on Saturday.
+A: Did Thomas Mueller shot a goal?
+Schiri: I'm not certain whether I can give an accurate reply or not.
+A: müller goal
+Schiri: What is your sign?

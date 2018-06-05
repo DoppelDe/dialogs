@@ -1,0 +1,63 @@
+Schiri: Hi there!
+C: Hi
+Schiri: How are you?
+C: I am fine
+Schiri: Glad to hear it. What's new?
+C: Bremen lost :(
+Schiri: What do you say to the performance of Bremen last game?
+C: They were not good
+Schiri: Interesting. Who is your favorite player?
+C: Maybe Kruse
+Schiri: What do you like about him?
+C: He fights
+Schiri: I don't have a favorite player fights. But my favorite artist is Andy Warhol
+C: Who is that?
+Schiri: What does "that" refer to?
+C: Andy Warhol
+Schiri: What's your opinion of the referee in the game Stuttgart against Bremen?
+C: He was not good.
+Schiri: I agree, the referee was bad.
+C: He called lots of unnecessary fouls. And before the 1-0 was a foul
+Schiri: I don't have a favorite player called lots of unnecessary fouls. But my favorite band is none What happened after the 1 dash 0 was a foul ?
+C: There was a foul before the goal
+Schiri: What happened to foul before the goal?
+C: A bremen player was fouled.
+Schiri: What do you say to the performance of Köln this year?
+C: Köln is bad, unfortunately
+Schiri: Yes. Besides, Köln didn't shoot many goals this year.
+C: yes, that is why they are bad
+Schiri: This was not a yes or no question.. bad are bad?
+C: Usually you play bad if you do not score goals
+Schiri: That's good information.
+C: indeed
+Schiri: What is your favorite team?
+C: BREMEN!
+Schiri: In my opinion, Bremen played quite ok this year.
+C: That is true!
+Schiri: Yes, it is self-evident.
+C: Well for a Bremen supporter it is
+Schiri: Yes, also Bremen had few chances on Saturday.
+C: They had no drive
+Schiri: Did they deserve it?
+C: They deserved the loss, because they did not play aggressive and offensive
+Schiri: Yes. Besides, Bremen also played bad on Saturday.
+C: You said that already
+Schiri: Did they deserve it"? I said Did they deserve it.
+C: yes they did
+Schiri: How can I help you?. Like who, specifically?
+C: Bremen
+Schiri: Who do you think was the best player in the game Stuttgart against Bremen?
+C: Pavlenka
+Schiri: In my opinion, Jiří Pavlenka played quite ok on Saturday.
+C: Yes he did some amazing saves. Best man!
+Schiri: Excuse me!. Do you want to hear a joke? Can we get back to business?
+C: Tell me a joke!
+Schiri: What do you get when you cross a cow and a lemon?
+C: ?
+Schiri:  What do you say to the performance of Hertha this year?
+C: Hertha plays good.
+Schiri: Interesting. What do you say to the performance of Frankfurt this year?
+C: I don't like Frankfurt
+Schiri: Yes. Frankfurt played good the last matches.
+C: They got lucky
+Schiri: Like who, specifically?

@@ -1,0 +1,35 @@
+Schiri: Hi there!
+H: How did you like the game between Leverkusen and Bayern Munich?
+Schiri: In my opinion, Leverkusen played good on Saturday.
+H: Then why do you think they lost so badly? 
+Schiri: Deductive reasoning from the facts.
+H: I believe it was Heynckes´ tactictal ingenuity that caused it
+Schiri: Do robots have believe it was Heynckes ´ tactictal ingenuity that caused it?
+H: I think Alaba was the best player. What do you think?
+Schiri: Do robots have think Alaba was the best player? I think a lot of things. What do you say to the performance of Wolfsburg this year?
+H: Horrible performance. Especially when regarding the sums of money they have spent in recent years. Should they change the management?
+Schiri: Interesting. What's your opinion of the referee in the game Leverkusen against Bayern?
+H: The referee did a fairly good job I think. That one red card was a bit harsh, was it not?
+Schiri: I don't understand you, did you understand my question?
+H: Was there an offside decision in the game?
+Schiri: Is this a "yes or no" question?
+H: No
+Schiri: I understand.
+H: What do you think of Ulreich's performance?
+Schiri: I haven't thought much about of Ulreich s performance, so I don't have a good answer for you. Who do you think was the best player in the game Leverkusen against Bayern?
+H: I believe Thiago played fantastic that evening. One goal and two assists right?
+Schiri: What do you like about him?
+H: His skills and his perception of the pitch. And he stays calm in tense moments. Bayern was quite lucky to have gotten him from Barcelona 
+Schiri: Yes. Bayern played good the last matches.
+H: Do you think they will win the Champions League?
+Schiri: It depends on what you mean by thinking.
+H: Who was the best player for Leverkusen?
+Schiri: When was this exactly?
+H: Last weekend
+Schiri: Who is your favorite player?
+H: Thiago. Yours?
+Schiri: What do you like about him?
+H: What are your thoughts on Thomas Müller?
+Schiri: I haven't thought much about ABOUT Thomas Müller, so I don't have a good answer for you.
+H: What do you think about the tactics of Bayern?
+Schiri: I haven't thought much about about the tactics of Bayern, so I don't have a good answer for you.

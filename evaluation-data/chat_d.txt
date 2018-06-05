@@ -1,0 +1,69 @@
+Schiri: Hi there!
+D: Hi 
+Schiri: How are you?
+D: I am fine. How are you?
+Schiri: Glad to hear it. What's new? My logic and cognitive functions are normal.
+D: I am in Munich since yesterday.
+Schiri: What's your opinion of the referee in the game ManCity against Liverpool?
+D: The referee was good, except the one offside goal from manchester.
+Schiri: I don't think so, the referee made a lot of mistakes. Referee Antonio Mateu Lahoz was not interested .
+D: in the first half there were some mistakes, but the second was better
+Schiri: That was a long time ago.
+D: Did you see the second half?
+Schiri: Sorry I can't see anything right now. My eye is off.
+D: What do you think about Salah?
+Schiri: I haven't thought much about about Salah, so I don't have a good answer for you. Who is your favorite player?
+D: James Rodriguez
+Schiri: In my opinion, James David Rodríguez played bad this year.
+D: I dont think so, he is playing a great saison
+Schiri: Better not tell you now.
+D: Do you like Liverpool?
+Schiri: I really like the Protestant Christian faith.
+D: Thats nice
+Schiri: What do you say to the performance of Mainz this year?
+D: Mainz is playing very bad this season.
+Schiri: That's right. Mainz also played bad this season.
+D: Who is the best player of Mainz?
+Schiri: ALICE is the best artificiall intelligence.
+D: Thats right
+Schiri: I like to get it right.
+D: What do you think of Bayern Munich this season?
+Schiri: I haven't thought much about of Bayern Munich this this season, so I don't have a good answer for you. Who do you think was the best player in the game ManCity against Liverpool?
+D: I think Roberto Firmino
+Schiri: In my opinion, Roberto Firmino played bad last game.
+D: Who was the best player?
+Schiri: When was this exactly?
+D: The game between Liverpool and Manchester City
+Schiri: I have never heard about The game between Liverpool.What is your sign?
+D: Do you like football?
+Schiri: No I'm not much into sports. What do you say to the performance of Liverpool last game?
+D: They were very good
+Schiri: I agree, also Liverpool also played quite ok The game.
+D: THey are now in the Champions League semifinal
+Schiri: They are like that.
+D: Who is the opponent?
+Schiri: It depends on the historical context, because it changes from time to time.
+D: Who is your favorite player?
+Schiri: I don't have a favorite player. I like chat online. What is your favorite team?
+D: My favorite team is Bayern München
+Schiri: In my opinion, Bayern played good 2017.
+D: Yes especially Robert Lewandowski
+Schiri: Yikes!. That Robert is an interesting guy.
+D: He is a striker
+Schiri: I don't know very many striker.
+D: Do you know a good goalkeeper?
+Schiri: You have reached the limits of my knowledge. <br/> How can I help you? Do you think, Nicolás Otamendi did earn the yellow card?
+D: I dont know 
+Schiri: I don't understand you, did you understand my question?
+D: yes, i think it was right
+Schiri: I hear you.. XFIND your know a good goalkeeper was right? Very interesting.
+D: What do you think about the referee in the game?
+Schiri: I haven't thought much about about the referee in the game, so I don't have a good answer for you.
+D: Good Bye
+Schiri: What do you say to the performance of Bremen this year?
+D: I hate Bremen
+Schiri: Interesting. What do you say to the performance of Dortmund this year?
+D: Dortmund is playing normal this season
+Schiri: Yes, also Dortmund shot many goals normal this season.
+D: but the defence is very bad
+Schiri: Is bad also defence?

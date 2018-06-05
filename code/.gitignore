@@ -1,0 +1,28 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/bin/
+
+# idea stuff
+*.iws
+*.idea/
+*.iml
+verbnet-3.2
+*/target/*
+
+#my stuff
+dialogs/logs/*
+dialogs/lib/WordNet/*
+dialogs/src/main/resources/bots/*
+*products_meta.json
+*products_reviews.json
+*switchboard_data.csv
